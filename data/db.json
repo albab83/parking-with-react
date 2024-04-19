@@ -1,0 +1,44 @@
+{
+    "dataPengendara": [
+      {
+        "id": 9337,
+        "nama": "Hit the gym",
+        "jenis": "mobil",
+        "jam_masuk": "13:00",
+        "no_kendaraan": "D 121254 PO",
+        "action": "Keluar"
+      },
+      {
+        "id": 2837,
+        "nama": "yonon",
+        "jenis": "mobil",
+        "jam_masuk": "13:00",
+        "no_kendaraan": "D 121254 PO",
+        "action": "Keluar"
+      },
+      {
+        "id": 37353,
+        "nama": "yonon",
+        "jenis": "mobil",
+        "jam_masuk": "13:00",
+        "no_kendaraan": "D 121254 PO",
+        "action": "Keluar"
+      },
+      {
+        "id": 40908,
+        "nama": "yonon",
+        "jenis": "mobil",
+        "jam_masuk": "13:00",
+        "no_kendaraan": "D 121254 PO",
+        "action": "Keluar"
+      },
+      {
+        "id": 57353,
+        "nama": "yonon",
+        "jenis": "mobil",
+        "jam_masuk": "13:00",
+        "no_kendaraan": "D 121254 PO",
+        "action": "Keluar"
+      }
+    ]
+  }
