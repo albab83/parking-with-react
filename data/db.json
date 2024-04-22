@@ -1,44 +1,44 @@
 {
-    "dataPengendara": [
-      {
-        "id": 9337,
-        "nama": "Hit the gym",
-        "jenis": "mobil",
-        "jam_masuk": "13:00",
-        "no_kendaraan": "D 121254 PO",
-        "action": "Keluar"
-      },
-      {
-        "id": 2837,
-        "nama": "yonon",
-        "jenis": "mobil",
-        "jam_masuk": "13:00",
-        "no_kendaraan": "D 121254 PO",
-        "action": "Keluar"
-      },
-      {
-        "id": 37353,
-        "nama": "yonon",
-        "jenis": "mobil",
-        "jam_masuk": "13:00",
-        "no_kendaraan": "D 121254 PO",
-        "action": "Keluar"
-      },
-      {
-        "id": 40908,
-        "nama": "yonon",
-        "jenis": "mobil",
-        "jam_masuk": "13:00",
-        "no_kendaraan": "D 121254 PO",
-        "action": "Keluar"
-      },
-      {
-        "id": 57353,
-        "nama": "yonon",
-        "jenis": "mobil",
-        "jam_masuk": "13:00",
-        "no_kendaraan": "D 121254 PO",
-        "action": "Keluar"
-      }
-    ]
-  }
+  "dataPengendara": [
+    {
+      "id": 9337,
+      "nama": "salman",
+      "jenis": "mobil",
+      "jam_masuk": "14:00",
+      "no_kendaraan": "D 12989 PO",
+      "action": "Keluar"
+    },
+    {
+      "id": 2837,
+      "nama": "Rizky",
+      "jenis": "motor",
+      "jam_masuk": "15:00",
+      "no_kendaraan": "D 121256 PO",
+      "action": "Keluar"
+    },
+    {
+      "id": 37353,
+      "nama": "maya",
+      "jenis": "mobil",
+      "jam_masuk": "15:07:00",
+      "no_kendaraan": "D 121257 PO",
+      "action": "Keluar"
+    },
+    {
+      "id": 40908,
+      "nama": "marcel",
+      "jenis": "mobil",
+      "jam_masuk": "15:20",
+      "no_kendaraan": "D 121258 PO",
+      "action": "Keluar"
+    },
+    {
+      "id": 57353,
+      "nama": "lala",
+      "jenis": "motor",
+      "jam_masuk": "15:30",
+      "no_kendaraan": "D 1212 PO",
+      "action": "Keluar"
+    }
+  ]
+}

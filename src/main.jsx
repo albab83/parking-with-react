@@ -4,10 +4,15 @@ import { createBrowserRouter , RouterProvider } from 'react-router-dom';
 import './index.css';
 import Page from './pages/page';
 import ArchivePage from './pages/archive-page';
+import LoginPage from './pages/login';
 
 const router = createBrowserRouter([
   {
     path: "/",
+    element:<LoginPage/>,
+  },
+  {
+    path: "/page",
     element:<Page/>,
   },
   {
