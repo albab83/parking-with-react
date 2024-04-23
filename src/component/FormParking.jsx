@@ -22,7 +22,6 @@ const FormParking = () => {
                 </form>
             </div>
         </motion.div>
-        
     )
 }
 

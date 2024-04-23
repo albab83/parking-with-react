@@ -1,7 +1,5 @@
 import { motion } from "framer-motion"
 const TableArchive = () => {
-
-
     return (
         <motion.div initial={{ opacity: 0, scale: 0 }}
                     animate={{ opacity: 1, scale: 1 }}
@@ -407,8 +405,6 @@ const TableArchive = () => {
                                 </tr>
                         </tbody>        
                     </table>
-                
-
             </div>
         </motion.div>
     )
