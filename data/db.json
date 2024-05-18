@@ -1,44 +1,61 @@
 {
-  "dataPengendara": [
-    {
-      "id": 9337,
-      "nama": "salman",
-      "jenis": "mobil",
-      "jam_masuk": "14:00",
-      "no_kendaraan": "D 12989 PO",
-      "action": "Keluar"
-    },
-    {
-      "id": 2837,
-      "nama": "Rizky",
-      "jenis": "motor",
-      "jam_masuk": "15:00",
-      "no_kendaraan": "D 121256 PO",
-      "action": "Keluar"
-    },
-    {
-      "id": 37353,
-      "nama": "maya",
-      "jenis": "mobil",
-      "jam_masuk": "15:07:00",
-      "no_kendaraan": "D 121257 PO",
-      "action": "Keluar"
-    },
-    {
-      "id": 40908,
-      "nama": "marcel",
-      "jenis": "mobil",
-      "jam_masuk": "15:20",
-      "no_kendaraan": "D 121258 PO",
-      "action": "Keluar"
-    },
-    {
-      "id": 57353,
-      "nama": "lala",
-      "jenis": "motor",
-      "jam_masuk": "15:30",
-      "no_kendaraan": "D 1212 PO",
-      "action": "Keluar"
-    }
-  ]
+   "dataPengendara": [
+      {
+         "id": "54a3",
+         "nama": "albab",
+         "jenis": "motor",
+         "jam_masuk": "14:49 12/4/2024",
+         "mulai_parkir": "",
+         "no_kendaraan": "77657"
+      },
+      {
+         "id": "1b71",
+         "nama": "asep",
+         "jenis": "motor",
+         "jam_masuk": "14:52 12-4-2024",
+         "mulai_parkir": "",
+         "no_kendaraan": "4455667"
+      },
+      {
+         "id": "cfd8",
+         "nama": "jajang",
+         "jenis": "motor",
+         "jam_masuk": "14:53 12-4-2024",
+         "mulai_parkir": "",
+         "no_kendaraan": "23344"
+      },
+      {
+         "id": "b3ab",
+         "nama": "maman",
+         "jenis": "motor",
+         "jam_masuk": "14:54 14-4-2024",
+         "mulai_parkir": "",
+         "no_kendaraan": "343435"
+      },
+      {
+         "id": "68ab",
+         "nama": "maman",
+         "jenis": "motor",
+         "jam_masuk": "14:44 15-4-2024",
+         "mulai_parkir": "",
+         "no_kendaraan": "1234567"
+      }
+   ],
+   "admin": [
+      {
+         "id": "b55a",
+         "email": "udin@gmail.com",
+         "password": "sdsafsgthg"
+      },
+      {
+         "id": "fb78",
+         "email": "kkasksk@gmail.com",
+         "password": "sfdgshtyj"
+      },
+      {
+         "id": "0dbc",
+         "email": "uwa@gmail.com",
+         "password": "sfdsgdh"
+      }
+   ]
 }
